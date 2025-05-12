@@ -8,3 +8,5 @@ Page Web
  >npm i --save-dev
  ## Si borramos el node-modules podemos volver a descargar las dependencias 
  >npm install o npm i
+ ## Tarea que queremos ejecutar
+ >npm run sass
