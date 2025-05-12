@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Caarl001/Festival-Musica/issues"
   },
-  "homepage": "https://github.com/Caarl001/Festival-Musica#readme"
+  "homepage": "https://github.com/Caarl001/Festival-Musica#readme",
+  "dependencies": {
+    "sass": "^1.88.0"
+  }
 }
