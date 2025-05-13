@@ -14,3 +14,5 @@ Page Web
  >npm i --save-dev gulp
  ## Ejecutar el gulp 
  >npm run hola (usamos el nombre de la exportación)
+ ## Agregamos una dependencia de desarrollo
+ >npm i --save-dev gulp-sass
