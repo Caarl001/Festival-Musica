@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "sass src/scss:build/css"
+    "sass": "sass --watch src/scss:build/css"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/Caarl001/Festival-Musica#readme",
   "dependencies": {
     "sass": "^1.88.0"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0"
   }
 }

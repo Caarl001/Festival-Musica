@@ -10,3 +10,5 @@ Page Web
  >npm install o npm i
  ## Tarea que queremos ejecutar
  >npm run sass
+ instalar la dependencias de Gulp
+ >npm i --save-dev gulp
