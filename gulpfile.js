@@ -10,3 +10,7 @@ const sass = gulpSass(dartSass)
         .pipe(dest('build/css'))
     done()
 }
+
+export function dev() {
+    
+}
