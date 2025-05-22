@@ -12,6 +12,6 @@ const sass = gulpSass(dartSass)
 }
 
 export function dev() {
-    watch('src/scss/app.scss', css)
+    watch('src/scss/**/*.scss', css)
 
 }
